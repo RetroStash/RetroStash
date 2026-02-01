@@ -1,5 +1,5 @@
 ## Hi there 👋
-<script src="https://cdn.jsdelivr.net/gh/RetroStash/retrostash.github.io@f1c04717e9bcdc489d63c717781fb04be7fe4c30/htmldeliverer.js"></script>
+<h1>Welcome to the official profile of **RetroStash**!</h1>
 
 <!--
 **RetroStash/RetroStash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
