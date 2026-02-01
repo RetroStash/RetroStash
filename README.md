@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1>Welcome to the official profile of <strong>RetroStash</strong></h1>!
+<h1>Welcome to the official profile of <strong>RetroStash</strong>!</h1>
 
 <!--
 **RetroStash/RetroStash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
