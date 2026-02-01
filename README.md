@@ -1,3 +1,4 @@
+<h1 align = center>
 <h1>Hi there! 👋 Welcome to the official profile of <i>RetroStash</i>!</h1>
 
 <!--
