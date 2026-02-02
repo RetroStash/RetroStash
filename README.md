@@ -20,6 +20,11 @@ Join our Discord server:
 [Button Usage]: https://img.shields.io/badge/Usage-2478b5?style=for-the-badge
 [Button Demo]: https://img.shields.io/badge/Demo-528116?style=for-the-badge
 [Button Beta]: https://img.shields.io/badge/Beta-bb044f?style=for-the-badge
+[Configurator]: https://emulatorjs.org/editor
+[Contributors]: docs/contributors.md
+[Website]: https://emulatorjs.org/
+[Usage]: https://emulatorjs.org/docs/
+[Demo]: https://demo.emulatorjs.org/
 
 <!--
 **RetroStash/RetroStash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
