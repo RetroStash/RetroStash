@@ -13,11 +13,11 @@ Join our Discord server:
 
 </div>
 
-[Button base64]: https://img.shields.io/badge/Code%20Generator-992cb3?style=for-the-badge
+[Button base64]: https://img.shields.io/badge/Base64-992cb3?style=for-the-badge
 [Button Contributors]: https://img.shields.io/badge/Contributors-54b7dd?style=for-the-badge
-[Button googleDoc]: https://img.shields.io/badge/Website-736e9b?style=for-the-badge
+[Button googleDoc]: https://img.shields.io/badge/Google%20Doc-736e9b?style=for-the-badge
 [Button Usage]: https://img.shields.io/badge/Usage-2478b5?style=for-the-badge
-[Button Website]: https://img.shields.io/badge/Demo-528116?style=for-the-badge
+[Button Website]: https://img.shields.io/badge/Website-528116?style=for-the-badge
 [Button Beta]: https://img.shields.io/badge/Beta-bb044f?style=for-the-badge
 [base64]: data:text/html;base64,PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9SZXRyb1N0YXNoL3JldHJvc3Rhc2guZ2l0aHViLmlvQGYxYzA0NzE3ZTliY2RjNDg5ZDYzYzcxNzc4MWZiMDRiZTdmZTRjMzAvaHRtbGRlbGl2ZXJlci5qcyI+PC9zY3JpcHQ+
 [Contributors]: contributors.md
