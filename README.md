@@ -9,6 +9,7 @@
 Join our Discord server:
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/6akryGkETU)](https://discord.gg/6akryGkETU)
+</div>
 
 [Button Configurator]: https://img.shields.io/badge/Code%20Generator-992cb3?style=for-the-badge
 [Button Contributors]: https://img.shields.io/badge/Contributors-54b7dd?style=for-the-badge
