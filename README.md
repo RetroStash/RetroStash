@@ -1,6 +1,6 @@
 <div align = center>
 <h1>Hi there! 👋 Welcome to the official profile of <i>RetroStash</i>!</h1>
-[![Button Website]][Website]
+[![Button Website](https://img.shields.io/badge/Website-736e9b?style=for-the-badge)](https://retrostash.github.io)
 [![Button Usage]][Usage]<br>
 [![Button Configurator]][Configurator]<br>
 [![Button Demo]][Demo]<br>
