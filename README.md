@@ -1,6 +1,6 @@
 <div align = center>
 <h1>Hi there! 👋 Welcome to the official profile of <i>RetroStash</i>!</h1>
-[![Button Website][Website]](https://retrostash.github.io)
+[![Button Website]][Website]
 [![Button Usage]][Usage]<br>
 [![Button Configurator]][Configurator]<br>
 [![Button Demo]][Demo]<br>
