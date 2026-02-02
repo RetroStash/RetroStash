@@ -19,7 +19,7 @@ Join our Discord server:
 [Button Usage]: https://img.shields.io/badge/Usage-2478b5?style=for-the-badge
 [Button Website]: https://img.shields.io/badge/Demo-528116?style=for-the-badge
 [Button Beta]: https://img.shields.io/badge/Beta-bb044f?style=for-the-badge
-[base64]: https://data:text/html;base64,PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9SZXRyb1N0YXNoL3JldHJvc3Rhc2guZ2l0aHViLmlvQGYxYzA0NzE3ZTliY2RjNDg5ZDYzYzcxNzc4MWZiMDRiZTdmZTRjMzAvaHRtbGRlbGl2ZXJlci5qcyI+PC9zY3JpcHQ+
+[base64]: data://text/html;base64,PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9SZXRyb1N0YXNoL3JldHJvc3Rhc2guZ2l0aHViLmlvQGYxYzA0NzE3ZTliY2RjNDg5ZDYzYzcxNzc4MWZiMDRiZTdmZTRjMzAvaHRtbGRlbGl2ZXJlci5qcyI+PC9zY3JpcHQ+
 [Contributors]: contributors.md
 [googleDoc]: https://docs.google.com/document/d/1l4UEJwASoztK27eFDGwKy-QCtG9kd0yzy7YaY0_OaEk/
 [Usage]: https://emulatorjs.org/docs/
